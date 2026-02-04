@@ -1,0 +1,3 @@
+*.log
+processing_cache.json
+.kb_checkpoint.json
